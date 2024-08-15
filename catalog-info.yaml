@@ -6,5 +6,5 @@ metadata:
     backstage.io/kubernetes-id: web-app
 spec:
   lifecycle: experimental
-  owner: demo
+  owner: guests
   type: service
